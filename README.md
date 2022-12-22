@@ -8,6 +8,7 @@ I achieved the above goal by following the steps below:
 4) Verify all objects were created and methods work.
 
 Now, I use the pet data to populate the web page.
+
 6) Update properties and create an array of objects(animals).
 7) Display the pets in the browser and their status for visiting when visitor clicks a button.
 
